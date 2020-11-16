@@ -1,0 +1,14 @@
+D:\Learning\MongoDBTest_CoreConsole\MongoDBTest_CoreConsole\bin\Debug\netcoreapp2.1\MongoDBTest_CoreConsole.deps.json
+D:\Learning\MongoDBTest_CoreConsole\MongoDBTest_CoreConsole\bin\Debug\netcoreapp2.1\MongoDBTest_CoreConsole.runtimeconfig.json
+D:\Learning\MongoDBTest_CoreConsole\MongoDBTest_CoreConsole\bin\Debug\netcoreapp2.1\MongoDBTest_CoreConsole.runtimeconfig.dev.json
+D:\Learning\MongoDBTest_CoreConsole\MongoDBTest_CoreConsole\bin\Debug\netcoreapp2.1\MongoDBTest_CoreConsole.dll
+D:\Learning\MongoDBTest_CoreConsole\MongoDBTest_CoreConsole\obj\Debug\netcoreapp2.1\MongoDBTest_CoreConsole.csprojAssemblyReference.cache
+D:\Learning\MongoDBTest_CoreConsole\MongoDBTest_CoreConsole\obj\Debug\netcoreapp2.1\MongoDBTest_CoreConsole.csproj.CoreCompileInputs.cache
+D:\Learning\MongoDBTest_CoreConsole\MongoDBTest_CoreConsole\obj\Debug\netcoreapp2.1\MongoDBTest_CoreConsole.AssemblyInfoInputs.cache
+D:\Learning\MongoDBTest_CoreConsole\MongoDBTest_CoreConsole\obj\Debug\netcoreapp2.1\MongoDBTest_CoreConsole.AssemblyInfo.cs
+D:\Learning\MongoDBTest_CoreConsole\MongoDBTest_CoreConsole\bin\Debug\netcoreapp2.1\snappy32.dll
+D:\Learning\MongoDBTest_CoreConsole\MongoDBTest_CoreConsole\bin\Debug\netcoreapp2.1\snappy64.dll
+D:\Learning\MongoDBTest_CoreConsole\MongoDBTest_CoreConsole\bin\Debug\netcoreapp2.1\libzstd.dll
+D:\Learning\MongoDBTest_CoreConsole\MongoDBTest_CoreConsole\bin\Debug\netcoreapp2.1\MongoDBTest_CoreConsole.pdb
+D:\Learning\MongoDBTest_CoreConsole\MongoDBTest_CoreConsole\obj\Debug\netcoreapp2.1\MongoDBTest_CoreConsole.dll
+D:\Learning\MongoDBTest_CoreConsole\MongoDBTest_CoreConsole\obj\Debug\netcoreapp2.1\MongoDBTest_CoreConsole.pdb
