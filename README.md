@@ -1,10 +1,10 @@
 # mongoDbDemo
-1.install by nuget
+1.install below dll by nuget .
 MongoDB.Bson
 MongoDB.Driver
 MongoDB.Driver.Core
 
-2.add demo code
+2.add below demo code.
 using MongoDB.Bson;
 using MongoDB.Driver;
 using System;
